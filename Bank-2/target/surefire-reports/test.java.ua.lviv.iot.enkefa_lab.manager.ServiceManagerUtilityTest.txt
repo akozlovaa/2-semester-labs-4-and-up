@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: test.java.ua.lviv.iot.enkefa_lab.manager.ServiceManagerUtilityTest
 -------------------------------------------------------------------------------
-Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.004 s - in test.java.ua.lviv.iot.enkefa_lab.manager.ServiceManagerUtilityTest
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.014 s - in test.java.ua.lviv.iot.enkefa_lab.manager.ServiceManagerUtilityTest

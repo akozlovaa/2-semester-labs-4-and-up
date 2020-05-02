@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="test.java.ua.lviv.iot.enkefa_lab.manager.ServiceManagerTest" time="0.064" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="test.java.ua.lviv.iot.enkefa_lab.manager.ServiceManagerTest" time="0.081" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="14"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.class.path" value="C:\Users\maksy\eclipse\Eclipse-Workspace\Bank-2\target\test-classes;C:\Users\maksy\eclipse\Eclipse-Workspace\Bank-2\target\classes;C:\Users\maksy\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.6.0\junit-jupiter-engine-5.6.0.jar;C:\Users\maksy\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\maksy\.m2\repository\org\junit\platform\junit-platform-engine\1.6.0\junit-platform-engine-1.6.0.jar;C:\Users\maksy\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\maksy\.m2\repository\org\junit\platform\junit-platform-commons\1.6.0\junit-platform-commons-1.6.0.jar;C:\Users\maksy\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.6.0\junit-jupiter-api-5.6.0.jar;"/>
+    <property name="java.class.path" value="C:\Users\Enkefa\git\2-semester-labs-4-and-up\Bank-2\target\test-classes;C:\Users\Enkefa\git\2-semester-labs-4-and-up\Bank-2\target\classes;C:\Users\Enkefa\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.6.0\junit-jupiter-engine-5.6.0.jar;C:\Users\Enkefa\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\Enkefa\.m2\repository\org\junit\platform\junit-platform-engine\1.6.0\junit-platform-engine-1.6.0.jar;C:\Users\Enkefa\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Enkefa\.m2\repository\org\junit\platform\junit-platform-commons\1.6.0\junit-platform-commons-1.6.0.jar;C:\Users\Enkefa\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.6.0\junit-jupiter-api-5.6.0.jar;"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="user.variant" value=""/>
@@ -14,46 +14,46 @@
     <property name="java.vm.specification.version" value="14"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
-    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-14\bin"/>
-    <property name="sun.java.command" value="C:\Users\maksy\AppData\Local\Temp\surefire13684777204268452106\surefirebooter12701085747734670646.jar C:\Users\maksy\AppData\Local\Temp\surefire13684777204268452106 2020-04-22T14-21-28_534-jvmRun1 surefire7726609290958598156tmp surefire_0837269074856808416tmp"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-14.0.1\bin"/>
+    <property name="sun.java.command" value="C:\Users\Enkefa\AppData\Local\Temp\surefire17191994987783165163\surefirebooter16600915620919337913.jar C:\Users\Enkefa\AppData\Local\Temp\surefire17191994987783165163 2020-04-27T09-42-02_395-jvmRun1 surefire18023123185588704330tmp surefire_017479428870854593714tmp"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="C:\Users\maksy\eclipse\Eclipse-Workspace\Bank-2\target\test-classes;C:\Users\maksy\eclipse\Eclipse-Workspace\Bank-2\target\classes;C:\Users\maksy\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.6.0\junit-jupiter-engine-5.6.0.jar;C:\Users\maksy\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\maksy\.m2\repository\org\junit\platform\junit-platform-engine\1.6.0\junit-platform-engine-1.6.0.jar;C:\Users\maksy\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\maksy\.m2\repository\org\junit\platform\junit-platform-commons\1.6.0\junit-platform-commons-1.6.0.jar;C:\Users\maksy\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.6.0\junit-jupiter-api-5.6.0.jar;"/>
+    <property name="surefire.test.class.path" value="C:\Users\Enkefa\git\2-semester-labs-4-and-up\Bank-2\target\test-classes;C:\Users\Enkefa\git\2-semester-labs-4-and-up\Bank-2\target\classes;C:\Users\Enkefa\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.6.0\junit-jupiter-engine-5.6.0.jar;C:\Users\Enkefa\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\Enkefa\.m2\repository\org\junit\platform\junit-platform-engine\1.6.0\junit-platform-engine-1.6.0.jar;C:\Users\Enkefa\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Enkefa\.m2\repository\org\junit\platform\junit-platform-commons\1.6.0\junit-platform-commons-1.6.0.jar;C:\Users\Enkefa\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.6.0\junit-jupiter-api-5.6.0.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
-    <property name="user.home" value="C:\Users\maksy"/>
+    <property name="user.home" value="C:\Users\Enkefa"/>
     <property name="user.language" value="en"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
-    <property name="java.version.date" value="2020-03-17"/>
-    <property name="java.home" value="C:\Program Files\Java\jdk-14"/>
+    <property name="java.version.date" value="2020-04-14"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-14.0.1"/>
     <property name="file.separator" value="\"/>
-    <property name="basedir" value="C:\Users\maksy\eclipse\Eclipse-Workspace\Bank-2"/>
-    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="basedir" value="C:\Users\Enkefa\git\2-semester-labs-4-and-up\Bank-2"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\maksy\AppData\Local\Temp\surefire13684777204268452106\surefirebooter12701085747734670646.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Enkefa\AppData\Local\Temp\surefire17191994987783165163\surefirebooter16600915620919337913.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
-    <property name="java.runtime.version" value="14+36-1461"/>
-    <property name="user.name" value="maksy"/>
+    <property name="java.runtime.version" value="14.0.1+7"/>
+    <property name="user.name" value="Enkefa"/>
     <property name="path.separator" value=";"/>
     <property name="os.version" value="10.0"/>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="file.encoding" value="Cp1252"/>
     <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
-    <property name="localRepository" value="C:\Users\maksy\.m2\repository"/>
+    <property name="localRepository" value="C:\Users\Enkefa\.m2\repository"/>
     <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
-    <property name="java.io.tmpdir" value="C:\Users\maksy\AppData\Local\Temp\"/>
-    <property name="java.version" value="14"/>
-    <property name="user.dir" value="C:\Users\maksy\eclipse\Eclipse-Workspace\Bank-2"/>
+    <property name="java.io.tmpdir" value="C:\Users\Enkefa\AppData\Local\Temp\"/>
+    <property name="java.version" value="14.0.1"/>
+    <property name="user.dir" value="C:\Users\Enkefa\git\2-semester-labs-4-and-up\Bank-2"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="sun.os.patch.level" value=""/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk-14\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\maksy\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jdk-14;C:\Program Files\Java\jdk-14\bin;C:\Users\maksy\eclipse\apache-maven-3.6.3\bin;C:\Users\maksy\AppData\Local\GitHubDesktop\bin;."/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-14.0.1\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\Enkefa\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jdk-14.0.1;C:\Program Files\Java\jdk-14.0.1\bin;C:\Program Files\Java\apache-maven-3.6.3\bin;C:\Program Files\Java\apache-maven-3.6.3;;."/>
     <property name="java.vm.info" value="mixed mode, sharing"/>
     <property name="java.vendor" value="Oracle Corporation"/>
-    <property name="java.vm.version" value="14+36-1461"/>
+    <property name="java.vm.version" value="14.0.1+7"/>
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="58.0"/>
   </properties>
-  <testcase name="testFindServiceByDuration" classname="test.java.ua.lviv.iot.enkefa_lab.manager.ServiceManagerTest" time="0.05"/>
+  <testcase name="testFindServiceByDuration" classname="test.java.ua.lviv.iot.enkefa_lab.manager.ServiceManagerTest" time="0.036"/>
 </testsuite>

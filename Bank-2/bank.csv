@@ -1,0 +1,8 @@
+name, numberOfFilials, duration,interestRate, moneyLoaned
+Mono,0,SHORT,3,30000
+name, numberOfFilials, duration,interestRate, moneyLoaned
+Privat,24,MEDIUM,2,20000
+name, numberOfFilials, duration,interestRate, moneyDeposited
+Mono,0,LONG,10,150000
+name, numberOfFilials, duration,interestRate, moneyDeposited
+Privat,24,MEDIUM,5,120000
