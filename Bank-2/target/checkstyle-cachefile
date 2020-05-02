@@ -1,0 +1,4 @@
+#Mon Apr 27 09:46:26 EEST 2020
+configuration*?=C7753BDFCD07150EFECC746E8FE454D0730AC05A
+module-resource*?\:checkstyle-xpath-suppressions.xml=691D3742737F81113135863FCFF6D37ECC102F65
+module-resource*?\:checkstyle-suppressions.xml=48F52595E5032CE049E3D0AB3B452E4CD85624FB
